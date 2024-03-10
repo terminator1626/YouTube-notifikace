@@ -1,0 +1,1 @@
+start npm i pm2 discord.js@12.2.0 ffmpeg@0.0.4 fs@0.0.2 isomorphic-fetch@3.0.0 libsodium-wrappers@0.7.13 opusscript@0.0.8 rss-converter@1.1.6

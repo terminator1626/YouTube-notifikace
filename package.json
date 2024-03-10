@@ -1,0 +1,28 @@
+{
+  "name": "discord-youtube-notification",
+  "version": "1.0.0",
+  "description": "Youtube notification with awesome embed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.2",
+    "isomorphic-fetch": "^3.0.0",
+    "libsodium-wrappers": "^0.7.13",
+    "opusscript": "^0.0.8",
+    "rss-converter": "^1.1.6"
+  },
+  "keywords": [
+    "discord",
+    "youtube",
+    "bot",
+    "discordbot",
+    "javascript"
+  ],
+  "author": "TERMINATOR",
+  "license": "MIT"
+}
