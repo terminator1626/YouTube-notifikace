@@ -12,4 +12,4 @@ Ahoj, tohle je krátky návod jak tohle zprovoznit.
 
 5. Dej botovi oprávnění
 
-6. Zapni bota pomocí node nebo pm2 a počkej než ti bot začne oznamovat nové videa (po zapnutí ti to oznámí nejnovější video)
+6. Zapni bota pomocí node nebo pm2 a počkej než ti bot začne oznamovat nové videa (po zapnutí ti to oznámí nejnovější video) 
