@@ -2,6 +2,6 @@
      "token": "SEM TOKEN DISCORD BOTA",
      "channel_id": "SEM ID KANÁLU KAM CHCEŠ NOTIFIKACE POSÍLAT",
      "channel_yt": "SEM TOKEN YOUTUBE KANÁLU (UCDWFsw6Sucj8q_qEVQV-zGg tvůj neznám, najdeš v nastavení) najdeš v odkazu videa, prosím nedávat username @17layzie",
-     "prefix": "17!",
+     "prefix": "!",
      "role": "SEM ID ROLE KTEROU CHCEŠ OZNAMOVAT"
 }
